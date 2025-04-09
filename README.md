@@ -4,6 +4,10 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=smanedn&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
+## 📈 Activity Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smanedn&langs_count=8&layout=compact&theme=radical)
+
 ### 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,11 +26,3 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## 📈 Activity Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smanedn&langs_count=8&layout=compact&theme=radical)
-
-## 🚀 Contributions
-
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=smanedn&theme=radical)
