@@ -33,6 +33,7 @@
 [![windows][windows-logo]][windows-link]
 [![vscode][vscode-logo]][vscode-link]
 [![intellij][intellij-logo]][intellij-link]
+[![godot][godot-logo]][godot-link]
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
@@ -103,4 +104,5 @@
 [intellij-logo]: https://skillicons.dev/icons?i=idea
 [intellij-link]: https://www.jetbrains.com/idea
 
-
+[godot-logo]: https://skillicons.dev/icons?i=godot
+[godot-link]: https://godotengine.org
